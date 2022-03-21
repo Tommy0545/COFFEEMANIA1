@@ -1,24 +1,44 @@
-# README
+# <COFFEEMANIA>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+<ユーザーが実際に行ったカフェや、飲んで美味しかったコーヒー豆を共有できるサイト。>
 
-* Ruby version
+### サイトテーマ
 
-* System dependencies
+<カフェやコーヒー豆のシェア。>
 
-* Configuration
+### テーマを選んだ理由
 
-* Database creation
+<私はコーヒースタンドやカフェに行くことが好きで、また家でコーヒー豆を挽いてコーヒーを作ったりします。
+日本全国にどのようなカフェがあるのか、そこの何がうまいのかや、
+コーヒー豆についても、どのような豆があり、どんなテイストなのか、共有できればコーヒー業界が盛り上がると考えたため、このテーマに決めました。>
 
-* Database initialization
+### ターゲットユーザ
 
-* How to run the test suite
+<コーヒー・カフェが好きな人。コーヒー豆を探している人。>
 
-* Services (job queues, cache servers, search engines, etc.)
+### 主な利用シーン
 
-* Deployment instructions
+<自分が飲んで美味しかったカフェやコーヒー豆を共有したい時、他人のお薦めするカフェ・コーヒー豆を知りたい時などコーヒーを通したコミュニティとして活用。>
 
-* ...
+## 設計書
+
+<...>
+
+## チャレンジ要素一覧
+
+<https://docs.google.com/spreadsheets/d/18_xGApeTg7tigklpGxH9ckmsQ1bXvjea_aatWP73WXU/edit?usp=sharing>
+
+## 開発環境
+
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JS ライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
+
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名と URL を明記してください。
+- 使用しない場合は、使用素材の項目を README から削除してください。
